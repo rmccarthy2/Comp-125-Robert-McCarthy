@@ -1,0 +1,30 @@
+body{
+  background-color: black;
+}
+#all{
+  background-color: #283747; 
+  color:white;
+}
+#link{
+  color: white;
+}
+#image{
+  text-align: center;
+  margin-bottom: 0;
+}
+#notes{
+  color: grey;
+  text-align: center;
+  font-size: 12;
+}
+#paragraph{
+  color: white;
+  text-align: center;
+  font-family: inherit;
+}
+#footer{
+  color: grey;
+  background-color: black;
+  text-align: center;
+  padding: 10px;
+}
